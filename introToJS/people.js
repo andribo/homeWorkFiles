@@ -1,6 +1,3 @@
-var test;
-
-
 var people = [{
   "firstName": "Jack",
   "lastName": "Jackson",
